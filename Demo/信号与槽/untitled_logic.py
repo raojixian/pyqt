@@ -31,9 +31,9 @@ class Example(QWidget,Ui_Form):
     # def radioButton_click_4(self):
     #     str = '取消'
     #     print(str)
-    @pyqtSlot()
-    def on_dial_valueChanged_(vale):
-        print(vale)
+    # @pyqtSlot()
+    def change(self):
+        print(self.dial.value)
 
 
 

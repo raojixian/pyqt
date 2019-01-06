@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd2d190-ff09-47a3-9fce-ea91714c9730" name="Default Changelist" comment="" />
+    <list default="true" id="7fd2d190-ff09-47a3-9fce-ea91714c9730" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt5----" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,24 +31,24 @@
           <entry key="file" value="2" />
           <entry key="jpg" value="2" />
           <entry key="png" value="4" />
-          <entry key="py" value="79" />
+          <entry key="py" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="6" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="79" />
+          <entry key="Python" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="10050" />
+          <entry key="py" value="10894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="10050" />
+          <entry key="Python" value="10894" />
         </counts>
       </usages-collector>
     </session>
@@ -79,11 +86,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="480">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#15#41#0" expanded="true" />
-                <marker date="1546774346808" expanded="true" signature="874:897" ph="..." />
+                <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
               </folding>
             </state>
           </provider>
@@ -92,10 +99,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="58" />
+            <state relative-caret-position="1431">
+              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
-                <marker date="1546774058360" expanded="true" signature="3411:3416" ph="..." />
+                <element signature="e#197#239#0" expanded="true" />
+                <marker date="1546777742581" expanded="true" signature="1443:1452" ph="..." />
+                <marker date="1546777742581" expanded="true" signature="1443:2283" ph="..." />
               </folding>
             </state>
           </provider>
@@ -163,6 +172,9 @@
       <replace>self</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -201,16 +213,18 @@
         <option value="$PROJECT_DIR$/Demo/信号与槽/pic/film.py" />
         <option value="$PROJECT_DIR$/Demo/信号与槽/Caohanshu.py" />
         <option value="$PROJECT_DIR$/Demo/信号与槽/test.py" />
-        <option value="$PROJECT_DIR$/Demo/信号与槽/untitled.py" />
         <option value="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" />
+        <option value="$PROJECT_DIR$/Demo/信号与槽/untitled.py" />
+        <option value="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="172" />
     <option name="width" value="1400" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -233,6 +247,13 @@
               <item name="科研管理系统" type="462c0819:PsiDirectoryNode" />
               <item name="Demo" type="462c0819:PsiDirectoryNode" />
               <item name="信号与槽" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="科研管理系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="科研管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="信号与槽" type="462c0819:PsiDirectoryNode" />
+              <item name="pic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -264,7 +285,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.untitled_logic">
+  <component name="RunManager" selected="Python.启动界面">
+    <configuration name="启动界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="科研管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="film" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,48 +328,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="movie" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="科研管理系统" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽/pic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/pic/movie.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="科研管理系统" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽/pic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/pic/pic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -341,6 +341,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="untitled" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="科研管理系统" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/untitled.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,18 +393,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python.pic" />
-      <item itemvalue="Python.movie" />
       <item itemvalue="Python.film" />
       <item itemvalue="Python.untitled_logic" />
+      <item itemvalue="Python.untitled" />
+      <item itemvalue="Python.启动界面" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.启动界面" />
         <item itemvalue="Python.untitled_logic" />
+        <item itemvalue="Python.untitled" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.film" />
-        <item itemvalue="Python.pic" />
-        <item itemvalue="Python.movie" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +422,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21601686" />
@@ -409,7 +430,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2829582" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2832618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,13 +469,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/976891595/PyQt5/QtWidgets/QWidget.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="930" column="8" selection-start-line="930" selection-start-column="8" selection-end-line="930" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
@@ -712,7 +726,6 @@
           <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
           <folding>
             <element signature="e#25#35#0" expanded="true" />
-            <marker date="1546664918595" expanded="true" signature="548:642" ph="..." />
           </folding>
         </state>
       </provider>
@@ -851,21 +864,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="480">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#15#41#0" expanded="true" />
-            <marker date="1546774346808" expanded="true" signature="874:897" ph="..." />
+            <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/启动界面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding>
+            <element signature="e#24#66#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="58" />
+        <state relative-caret-position="1431">
+          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
-            <marker date="1546774058360" expanded="true" signature="3411:3416" ph="..." />
+            <element signature="e#197#239#0" expanded="true" />
+            <marker date="1546777742581" expanded="true" signature="1443:1452" ph="..." />
+            <marker date="1546777742581" expanded="true" signature="1443:2283" ph="..." />
           </folding>
         </state>
       </provider>
