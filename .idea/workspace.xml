@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd2d190-ff09-47a3-9fce-ea91714c9730" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt5----" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="480">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#15#41#0" expanded="true" />
                 <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
@@ -100,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1431">
-              <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+              <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
               <folding>
                 <element signature="e#197#239#0" expanded="true" />
                 <marker date="1546777742581" expanded="true" signature="1443:1452" ph="..." />
@@ -220,8 +215,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="172" />
-    <option name="width" value="1400" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -865,7 +860,7 @@
     <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="e#15#41#0" expanded="true" />
             <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
@@ -886,7 +881,7 @@
     <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1431">
-          <caret line="53" column="28" lean-forward="true" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
+          <caret line="53" column="28" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="28" />
           <folding>
             <element signature="e#197#239#0" expanded="true" />
             <marker date="1546777742581" expanded="true" signature="1443:1452" ph="..." />
