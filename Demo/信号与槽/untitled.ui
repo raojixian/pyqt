@@ -13,61 +13,58 @@
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QLabel" name="lable">
    <property name="geometry">
     <rect>
-     <x>240</x>
-     <y>180</y>
-     <width>75</width>
-     <height>23</height>
+     <x>290</x>
+     <y>190</y>
+     <width>54</width>
+     <height>16</height>
     </rect>
    </property>
    <property name="text">
-    <string>按钮</string>
+    <string>&amp;lable</string>
+   </property>
+   <property name="buddy">
+    <cstring>lineEdit</cstring>
    </property>
   </widget>
-  <widget class="QWidget" name="layoutWidget">
+  <widget class="QLineEdit" name="lineEdit">
    <property name="geometry">
     <rect>
-     <x>240</x>
-     <y>150</y>
-     <width>195</width>
-     <height>22</height>
+     <x>370</x>
+     <y>190</y>
+     <width>113</width>
+     <height>20</height>
     </rect>
    </property>
-   <layout class="QHBoxLayout" name="horizontalLayout">
-    <item>
-     <widget class="QLabel" name="label">
-      <property name="text">
-       <string>内容</string>
-      </property>
-     </widget>
-    </item>
-    <item>
-     <widget class="QLineEdit" name="lineEdit"/>
-    </item>
-   </layout>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>270</x>
+     <y>240</y>
+     <width>54</width>
+     <height>12</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>TextLabel</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>250</y>
+     <width>113</width>
+     <height>20</height>
+    </rect>
+   </property>
   </widget>
  </widget>
  <resources/>
- <connections>
-  <connection>
-   <sender>pushButton</sender>
-   <signal>clicked()</signal>
-   <receiver>Form</receiver>
-   <slot>slot1()</slot>
-   <hints>
-    <hint type="sourcelabel">
-     <x>267</x>
-     <y>189</y>
-    </hint>
-    <hint type="destinationlabel">
-     <x>230</x>
-     <y>224</y>
-    </hint>
-   </hints>
-  </connection>
- </connections>
+ <connections/>
  <slots>
   <slot>slot1()</slot>
  </slots>

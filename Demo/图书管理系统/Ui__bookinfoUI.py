@@ -13,14 +13,17 @@ class Ui_Dialog(object):
     def setupUi(self, Dialog):
         Dialog.setObjectName("Dialog")
         Dialog.resize(432, 514)
+        # 给窗口设置图标
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("res/logo.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         Dialog.setWindowIcon(icon)
+        # 页面布局
 
         self.horizontalLayout_13 = QtWidgets.QHBoxLayout(Dialog)
         self.horizontalLayout_13.setObjectName("horizontalLayout_13")
         self.verticalLayout_3 = QtWidgets.QVBoxLayout()
         self.verticalLayout_3.setObjectName("verticalLayout_3")
+        # iSbn
         self.horizontalLayout_3 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_3.setObjectName("horizontalLayout_3")
         self.label = QtWidgets.QLabel(Dialog)
@@ -30,6 +33,7 @@ class Ui_Dialog(object):
         self.lineEdit_isbn.setInputMask("")
         self.lineEdit_isbn.setClearButtonEnabled(True)
         self.lineEdit_isbn.setObjectName("lineEdit_isbn")
+        # 书名
         self.horizontalLayout_3.addWidget(self.lineEdit_isbn)
         self.verticalLayout_3.addLayout(self.horizontalLayout_3)
         self.horizontalLayout_10 = QtWidgets.QHBoxLayout()
@@ -42,6 +46,7 @@ class Ui_Dialog(object):
         self.lineEdit_bookname.setObjectName("lineEdit_bookname")
         self.horizontalLayout_10.addWidget(self.lineEdit_bookname)
         self.verticalLayout_3.addLayout(self.horizontalLayout_10)
+        #作者
         self.horizontalLayout_4 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_4.setObjectName("horizontalLayout_4")
         self.label_2 = QtWidgets.QLabel(Dialog)
@@ -52,6 +57,7 @@ class Ui_Dialog(object):
         self.lineEdit_author.setObjectName("lineEdit_author")
         self.horizontalLayout_4.addWidget(self.lineEdit_author)
         self.verticalLayout_3.addLayout(self.horizontalLayout_4)
+        # 图书分类
         self.horizontalLayout_11 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_11.setSpacing(0)
         self.horizontalLayout_11.setObjectName("horizontalLayout_11")
@@ -63,7 +69,7 @@ class Ui_Dialog(object):
         self.comboBox.setObjectName("comboBox")
         self.horizontalLayout_11.addWidget(self.comboBox)
         self.verticalLayout_3.addLayout(self.horizontalLayout_11)
-        ##
+        ##国家
         self.horizontalLayout_14 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_14.setObjectName("horizontalLayout_14")
         self.label_13 = QtWidgets.QLabel(Dialog)
@@ -74,7 +80,7 @@ class Ui_Dialog(object):
         self.lineEdit_country.setObjectName("lineEdit_country")
         self.horizontalLayout_14.addWidget(self.lineEdit_country)
         self.verticalLayout_3.addLayout(self.horizontalLayout_14)
-        ##
+        ##出版单位
         self.horizontalLayout_5 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_5.setObjectName("horizontalLayout_5")
         self.label_3 = QtWidgets.QLabel(Dialog)
@@ -85,7 +91,7 @@ class Ui_Dialog(object):
         self.lineEdit_publisher.setObjectName("lineEdit_publisher")
         self.horizontalLayout_5.addWidget(self.lineEdit_publisher)
         self.verticalLayout_3.addLayout(self.horizontalLayout_5)
-
+        # 页数
         self.horizontalLayout_7 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_7.setObjectName("horizontalLayout_7")
         self.label_5 = QtWidgets.QLabel(Dialog)
@@ -96,6 +102,7 @@ class Ui_Dialog(object):
         self.lineEdit_pages.setObjectName("lineEdit_pages")
         self.horizontalLayout_7.addWidget(self.lineEdit_pages)
         self.verticalLayout_3.addLayout(self.horizontalLayout_7)
+        # 出版年份
         self.horizontalLayout_6 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_6.setObjectName("horizontalLayout_6")
         self.label_4 = QtWidgets.QLabel(Dialog)
@@ -106,6 +113,7 @@ class Ui_Dialog(object):
         self.lineEdit_pudate.setObjectName("lineEdit_pudate")
         self.horizontalLayout_6.addWidget(self.lineEdit_pudate)
         self.verticalLayout_3.addLayout(self.horizontalLayout_6)
+        # 定价
         self.horizontalLayout_8 = QtWidgets.QHBoxLayout()
         self.horizontalLayout_8.setObjectName("horizontalLayout_8")
         self.label_6 = QtWidgets.QLabel(Dialog)
@@ -116,6 +124,7 @@ class Ui_Dialog(object):
         self.lineEdit_price.setObjectName("lineEdit_price")
         self.horizontalLayout_8.addWidget(self.lineEdit_price)
         self.verticalLayout_3.addLayout(self.horizontalLayout_8)
+        # 内容简介
         self.label_7 = QtWidgets.QLabel(Dialog)
         self.label_7.setObjectName("label_7")
         self.verticalLayout_3.addWidget(self.label_7)

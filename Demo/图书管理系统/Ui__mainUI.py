@@ -266,3 +266,16 @@ class Ui_MainWindow(object):
         self.label_12.setText(_translate("MainWindow", "定    价"))
         self.label_14.setText(_translate("MainWindow", "内容简介"))
         self.pushButton_createbook.setText(_translate("MainWindow", "新建图书档案..."))
+
+if __name__ == "__main__":
+    from PyQt5.QtWidgets import QApplication
+    import sys
+    import qdarkstyle
+    app = QApplication(sys.argv)
+    # 设置深的格式
+    app.setStyleSheet(qdarkstyle.load_stylesheet_pyqt5())
+    form = QtWidgets.QMainWindow()
+    window = Ui_MainWindow()
+    window.setupUi(form)
+    form.show()
+    sys.exit(app.exec_())
