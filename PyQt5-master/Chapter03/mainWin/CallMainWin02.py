@@ -28,7 +28,7 @@ class MainForm(QMainWindow, Ui_MainWindow):
         self.child.show()
 
     def openMsg(self):
-        file, ok = QFileDialog.getOpenFileName(self, "打开", "C:/", "All Files (*);;Text Files (*.txt)")
+        file, ok = QFileDialog.getOpenFileName(self, "打开", "D:/", "All Files (*);;Text Files (*.txt)")
         # 在状态栏显示文件地址
         self.statusbar.showMessage(file)
 

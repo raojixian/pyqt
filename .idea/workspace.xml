@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7fd2d190-ff09-47a3-9fce-ea91714c9730" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter03/learning/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter03/learning/界面跳转.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter03/testCase/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QInputDialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/Qcalender.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QfileDialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/Qspinbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QstatusBar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter05/learning/Qtableview.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyQt5-master/Chapter05/learning/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyqt5Book/第四章/拖拽.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/语音合成/demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/信号与槽/untitled.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyQt5 界面程序设计.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt5 界面程序设计.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/database/user.db" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/database/user.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt5-master/Chapter03/mainWin/CallMainWin02.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt5-master/Chapter03/mainWin/CallMainWin02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyQt5-master/Chapter03/testCase/MatrixWinUi.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyQt5-master/Chapter03/testCase/MatrixWinUi.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,26 +40,36 @@
           <entry key="dat" value="1" />
           <entry key="data" value="1" />
           <entry key="file" value="2" />
+          <entry key="html" value="1" />
+          <entry key="ico" value="1" />
           <entry key="jpg" value="2" />
           <entry key="png" value="4" />
-          <entry key="py" value="89" />
+          <entry key="py" value="187" />
+          <entry key="qm" value="2" />
+          <entry key="qrc" value="1" />
+          <entry key="ts" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="6" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="89" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="7" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="187" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="11007" />
+          <entry key="dummy" value="3" />
+          <entry key="py" value="17381" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="11007" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="17381" />
         </counts>
       </usages-collector>
     </session>
@@ -57,103 +77,88 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0408_QButton.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+            <state relative-caret-position="-810" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0409_QRadio.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-729" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0410_QCheckbox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/信号与槽/test.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0411_QComboBox.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="16" />
+            <state relative-caret-position="324">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0412_QSpinBox.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-60">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <element signature="e#15#44#0" expanded="true" />
-                <marker date="1546772906355" expanded="true" signature="172:177" ph="..." />
-                <marker date="1546772906355" expanded="true" signature="327:342" ph="..." />
-                <marker date="1546772906355" expanded="true" signature="477:602" ph="..." />
-                <marker date="1546772906355" expanded="true" signature="623:693" ph="..." />
+                <element signature="e#70#80#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0414_Qmenu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="-600" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0415_QToolBar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0416_Dialog.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-486" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0426_QPainter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="669">
+              <caret line="37" column="15" lean-forward="true" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
+        <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter05/DataGrid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+            <state relative-caret-position="216">
+              <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
               <folding>
-                <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4806">
-              <caret line="179" column="47" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/createbook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
-              <folding>
-                <element signature="e#66#111#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/datamanagement.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1539">
-              <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-              <folding>
-                <element signature="e#25#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/mbook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#61#105#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/run.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
+                <element signature="e#26#36#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -170,9 +175,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Qline</find>
-      <find>login</find>
-      <find>push</find>
       <find>setCentralWidget</find>
       <find>setMenuBar</find>
       <find>addToolBar</find>
@@ -200,6 +202,9 @@
       <find>phonon</find>
       <find>Form</find>
       <find>radioButton_5</find>
+      <find>btm</find>
+      <find>uiAccept</find>
+      <find>tequilaScrollBar</find>
     </findStrings>
     <replaceStrings>
       <replace>sheldon</replace>
@@ -214,11 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Demo/Newproject.py" />
-        <option value="$PROJECT_DIR$/Demo/jingfei.py" />
-        <option value="$PROJECT_DIR$/Demo/search.py" />
-        <option value="$PROJECT_DIR$/Demo/renwushu.py" />
-        <option value="$PROJECT_DIR$/Demo/chengguo.py" />
         <option value="$PROJECT_DIR$/Demo/sliqte3.py" />
         <option value="$PROJECT_DIR$/Demo/login.py" />
         <option value="$PROJECT_DIR$/Demo/test.py" />
@@ -253,15 +253,34 @@
         <option value="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" />
         <option value="$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py" />
         <option value="$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/Learning.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/learning/界面跳转.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/mainWin/CallMainWin02.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/learning/main.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_lineEdit01.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QInputDialog.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/Qspinbox.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QfileDialog.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/Qcalender.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter04/learning/QstatusBar.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter05/learning/Qtablevie.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter05/learning/demo.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter05/learning/Qtableview.py" />
+        <option value="$PROJECT_DIR$/pyqt5Book/第四章/拖拽.py" />
+        <option value="$PROJECT_DIR$/语音合成/demo.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/testCase/demo.py" />
+        <option value="$PROJECT_DIR$/PyQt5-master/Chapter03/testCase/MatrixWinUi.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="700" />
+    <option name="width" value="960" />
+    <option name="height" value="350" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -278,7 +297,18 @@
             <path>
               <item name="科研管理系统" type="b2602c69:ProjectViewProjectNode" />
               <item name="科研管理系统" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="PyQt5-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="科研管理系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="科研管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="PyQt5-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="科研管理系统" type="b2602c69:ProjectViewProjectNode" />
+              <item name="科研管理系统" type="462c0819:PsiDirectoryNode" />
+              <item name="语音合成" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,8 +339,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CallMainWin01">
-    <configuration name="启动界面" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.qt0426_QPainter">
+    <configuration name="qt0409_QRadio" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,11 +348,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/启动界面.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt0409_QRadio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,7 +361,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CallMainWin01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qt0410_QCheckbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,11 +369,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter03/mainWin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter03/mainWin/CallMainWin01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt0410_QCheckbox.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -352,7 +382,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ui__bookinfoUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qt0414_Qmenu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -360,11 +390,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/图书管理系统" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt0414_Qmenu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,7 +403,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ui__mainUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qt0415_QToolBar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -381,11 +411,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/图书管理系统" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt0415_QToolBar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,7 +424,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="untitled_logic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="qt0426_QPainter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="科研管理系统" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -402,11 +432,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo/信号与槽" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PyQt5-master/Chapter04" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PyQt5-master/Chapter04/qt0426_QPainter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,19 +446,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.untitled_logic" />
-      <item itemvalue="Python.启动界面" />
-      <item itemvalue="Python.Ui__bookinfoUI" />
-      <item itemvalue="Python.Ui__mainUI" />
-      <item itemvalue="Python.CallMainWin01" />
+      <item itemvalue="Python.qt0409_QRadio" />
+      <item itemvalue="Python.qt0410_QCheckbox" />
+      <item itemvalue="Python.qt0414_Qmenu" />
+      <item itemvalue="Python.qt0415_QToolBar" />
+      <item itemvalue="Python.qt0426_QPainter" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CallMainWin01" />
-        <item itemvalue="Python.untitled_logic" />
-        <item itemvalue="Python.Ui__bookinfoUI" />
-        <item itemvalue="Python.Ui__mainUI" />
-        <item itemvalue="Python.启动界面" />
+        <item itemvalue="Python.qt0426_QPainter" />
+        <item itemvalue="Python.qt0415_QToolBar" />
+        <item itemvalue="Python.qt0414_Qmenu" />
+        <item itemvalue="Python.qt0410_QCheckbox" />
+        <item itemvalue="Python.qt0409_QRadio" />
       </list>
     </recent_temporary>
   </component>
@@ -446,8 +476,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21601686" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2832618" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.26180258" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32939914" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21601686" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -466,265 +517,372 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21601686" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35584137" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978564" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2636656" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3290461" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Demo/test.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/LibraryManageDesktopApp-master/LibraryManageDesktopApp-master/SignUp.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/LibraryManageDesktopApp-master/LibraryManageDesktopApp-master/StudentHome.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/LibraryManageDesktopApp-master/LibraryManageDesktopApp-master/UserManage.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/LibraryManageDesktopApp-master/LibraryManageDesktopApp-master/MainWindow.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/._createbook.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/book.dat" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/datamanagement.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/Ui__mainUI.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/demo-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="21" lean-forward="true" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/demo-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/demo-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/demo-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/窗口切换.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="112" lean-forward="true" selection-start-line="112" selection-end-line="112" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/mbook.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/createbook.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/getbookinfo.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/run.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/test.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/demo.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/PyQt546、47、48、49/Ui__bookinfoUI.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/装饰器.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/LibraryManageDesktopApp-master/LibraryManageDesktopApp-master/SignIn.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/loadbook.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/getbookinfo.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/test.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/u-1.py" />
-    <entry file="file://$PROJECT_DIR$/Demo/界面跳转/demo2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-235">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/界面跳转/Demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/界面跳转/demo1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/界面跳转/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="49" column="14" selection-start-line="46" selection-start-column="8" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/demo-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图片文件视频/图片操作/demo-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/图片文件视频/图片操作/file">
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter03/zh_CN.qm">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/图片文件视频/图片操作/demo-1.py">
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter03/Ui_MainWinSignalSlog04.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="-1059" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter03/Ui_layout_demo_LayoutManage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="145" column="17" selection-start-line="145" selection-start-column="17" selection-end-line="145" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/pic/file.data">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/pic/file.png">
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/images/cartoon3.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/pic/film.py">
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/hello.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/pic/movie.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/pic/pic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/Caohanshu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="89" column="38" selection-start-line="89" selection-start-column="38" selection-end-line="89" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/启动界面.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/Ui__bookinfoUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4806">
-          <caret line="179" column="47" selection-start-line="179" selection-start-column="36" selection-end-line="179" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/datamanagement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-          <folding>
-            <element signature="e#25#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/mbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#61#105#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/run.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/createbook.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="88" column="41" selection-start-line="88" selection-start-column="41" selection-end-line="88" selection-end-column="41" />
-          <folding>
-            <element signature="e#66#111#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/图书管理系统/Ui__mainUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" selection-start-line="8" selection-end-line="16" />
-          <folding>
-            <element signature="e#15#44#0" expanded="true" />
-            <marker date="1546772906355" expanded="true" signature="172:177" ph="..." />
-            <marker date="1546772906355" expanded="true" signature="327:342" ph="..." />
-            <marker date="1546772906355" expanded="true" signature="477:602" ph="..." />
-            <marker date="1546772906355" expanded="true" signature="623:693" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo/信号与槽/untitled_logic.py">
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_closeMainWin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
-          <caret line="23" column="36" lean-forward="true" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
-            <marker date="1546776054431" expanded="true" signature="892:895" ph="..." />
+            <element signature="e#65#154#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_drag.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#76#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_drawBrush.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="16" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="16" />
+          <folding>
+            <element signature="e#86#96#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_drawPen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="41" column="38" lean-forward="true" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_drawPoint.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="18" />
+          <folding>
+            <element signature="e#69#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_drawText.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="34" column="58" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="e#71#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_lineEdit01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="891">
+          <caret line="37" column="28" lean-forward="true" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_lineEdit02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="47" column="47" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_lineEdit03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="27" column="38" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <element signature="e#76#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_lineEdit04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_painter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QCalendar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="36" />
+          <folding>
+            <element signature="e#77#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QClipboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="72" column="27" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="27" />
+          <folding>
+            <element signature="e#72#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QDateTimeEdit01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789">
+          <folding>
+            <element signature="e#74#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QDateTimeEdit02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1086">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QDockWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding>
+            <element signature="e#73#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QFileDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QFontDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QInputDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QMessageBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QMultipleDoc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="35" />
+          <folding>
+            <element signature="e#70#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QPixmap.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QScrollBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QSplitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+          <folding>
+            <element signature="e#71#81#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QStackedWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729">
+          <folding>
+            <element signature="e#76#86#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QStatusBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_QTabWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="e#72#82#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt04_textEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="16" column="42" lean-forward="true" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="e#73#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt402_FirstPyQt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt402_QMainWin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-276" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt403_QIcon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt404_QToolTip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-303">
+          <folding>
+            <element signature="e#61#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt405_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0406_QLabel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="52" column="22" lean-forward="true" selection-start-line="52" selection-start-column="22" selection-end-line="52" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt401_widgetGeometry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0407_QLabel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0408_QButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0409_QRadio.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-729" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0410_QCheckbox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="49" column="53" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0411_QComboBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0412_QSpinBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#70#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0414_Qmenu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0415_QToolBar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0416_Dialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter04/qt0426_QPainter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="37" column="15" lean-forward="true" selection-start-line="37" selection-start-column="15" selection-end-line="37" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PyQt5-master/Chapter05/DataGrid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#26#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

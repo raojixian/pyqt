@@ -177,3 +177,6 @@ class Ui_MatrixWin(object):
         self.label_8.setText(_translate("MatrixWin", "升"))
         self.label_5.setText(_translate("MatrixWin", "个"))
 
+
+
+
